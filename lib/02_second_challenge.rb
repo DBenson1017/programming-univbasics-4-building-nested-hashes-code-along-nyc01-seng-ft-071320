@@ -11,8 +11,7 @@ def second_challenge
       :matriarch => "Lady Capulet",
       :hero => "Juliet"
       :hero_friends => ["Steven", "Nurse"]
-      }
-  } 
+      }}
 
   
 end
