@@ -12,7 +12,7 @@ def second_challenge
       :heroine =>  ,
       :heroine_friends => []
       }
-}
+
   
 end
 
@@ -31,4 +31,4 @@ end
       :heroine_friends => ["Steven", "Nurse"]
       }
 }
-  
+  =end
